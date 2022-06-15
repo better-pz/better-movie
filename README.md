@@ -1,15 +1,18 @@
-# umi project
+# better-mf-video
+## 项目目标
+> 自我提升技术能力,为用户提供资源丰富,高清好用的视频网站
++ 技术提升
++ 广告收益
+## 项目功能分析
+> 项目的功能需求分析
++ 系统稳定
++ 视频清晰
++ 响应速度快
++ 操作简便
+## 技术选型
+> 项目的技术选型分析
+## 技术发方案讨论记录
 
-## Getting Started
 
-Install dependencies,
-
-```bash
-$ yarn
-```
-
-Start the dev server,
-
-```bash
-$ yarn start
-```
+## 运营方案讨论
+> 运营推广的方案以及广告收益
