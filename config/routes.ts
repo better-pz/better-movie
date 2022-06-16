@@ -1,1 +1,3 @@
-export default [{ path: '/', component: '@/pages/index' }];
+export default [
+  { path: '/', component: '@/pages/index' },
+]
