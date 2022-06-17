@@ -13,5 +13,6 @@ module.exports = {
     '@typescript-eslint/camelcase': false,
     "react/react-in-jsx-scope": "off", // react in scope
     'react/jsx-first-prop-new-line': 'error',
+    'import/extensions': [0] // 解决 `Missing file extension for "@/xxx`
   },
 }
